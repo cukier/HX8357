@@ -91,7 +91,7 @@ Project\ Outputs*/
 eagle.epf
 
 # Autorouter files
-*.pro
+#*.pro
 *.job
 
 # CAM files

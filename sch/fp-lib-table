@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name psw)(type KiCad)(uri D:/Projetos/HX8357/lib/psw.pretty)(options "")(descr ""))
+)
