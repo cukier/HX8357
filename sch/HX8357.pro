@@ -1,4 +1,4 @@
-update=21/06/2017 15:38:03
+update=21/06/2017 16:43:36
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName32=D:/Projetos/HX8357/lib/w_rtx
 LibName33=D:/Projetos/HX8357/lib/ds1307
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=pdf
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
